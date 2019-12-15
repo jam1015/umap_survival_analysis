@@ -1,0 +1,102 @@
+sample,sample_type,patient_id,biopsy_tissue,dataset,tissue,disease
+0003-56M,Metastatic,OV.9,Ovary,Lee,Breast,BRCA
+0004-56M,Metastatic,OV.10,Ovary,Lee,Breast,BRCA
+0006-56M,Metastatic,OV.11,Ovary,Lee,Breast,BRCA
+0009-56M,Metastatic,OV.12,Ovary,Lee,Breast,BRCA
+0014-56M,Metastatic,OV.13,Ovary,Lee,Breast,BRCA
+0018-56M,Metastatic,OV.14,Ovary,Lee,Breast,BRCA
+0029-50T,Primary Tumor,OV.9,Breast,Lee,Breast,BRCA
+0030-50T,Primary Tumor,OV.10,Breast,Lee,Breast,BRCA
+0031-50T,Primary Tumor,OV.11,Breast,Lee,Breast,BRCA
+0033-50T,Primary Tumor,OV.12,Breast,Lee,Breast,BRCA
+0034-50T,Primary Tumor,OV.13,Breast,Lee,Breast,BRCA
+0035-50T,Primary Tumor,OV.14,Breast,Lee,Breast,BRCA
+12M_Pitt,Metastatic,Br.12_Pitt,Brain,Lee,Breast,BRCA
+12P_Pitt,Primary Tumor,Br.12_Pitt,Breast,Lee,Breast,BRCA
+17M,Metastatic,Bo.17,Bone,Lee,Breast,BRCA
+17M_Pitt,Metastatic,Br.17_Pitt,Brain,Lee,Breast,BRCA
+17P,Primary Tumor,Bo.17,Breast,Lee,Breast,BRCA
+17P_Pitt,Primary Tumor,Br.17_Pitt,Breast,Lee,Breast,BRCA
+19-2M_Pitt,Metastatic,Br.19-2_Pitt,Brain,Lee,Breast,BRCA
+19-2P_Pitt,Primary Tumor,Br.19-2_Pitt,Breast,Lee,Breast,BRCA
+19M,Metastatic,Bo.19,Bone,Lee,Breast,BRCA
+19P,Primary Tumor,Bo.19,Breast,Lee,Breast,BRCA
+1M_RCS,Metastatic,Br.1_RCS,Brain,Lee,Breast,BRCA
+1P_RCS,Primary Tumor,Br.1_RCS,Breast,Lee,Breast,BRCA
+22M,Metastatic,Bo.22,Bone,Lee,Breast,BRCA
+22P,Primary Tumor,Bo.22,Breast,Lee,Breast,BRCA
+25M_Pitt,Metastatic,Br.25_Pitt,Brain,Lee,Breast,BRCA
+25P_Pitt,Primary Tumor,Br.25_Pitt,Breast,Lee,Breast,BRCA
+29M_Pitt,Metastatic,Br.29_Pitt,Brain,Lee,Breast,BRCA
+29P_Pitt,Primary Tumor,Br.29_Pitt,Breast,Lee,Breast,BRCA
+2M_RCS,Metastatic,Br.2_RCS,Brain,Lee,Breast,BRCA
+2P_RCS,Primary Tumor,Br.2_RCS,Breast,Lee,Breast,BRCA
+31M,Metastatic,Bo.31,Bone,Lee,Breast,BRCA
+31P,Primary Tumor,Bo.31,Breast,Lee,Breast,BRCA
+34M,Metastatic,Bo.34,Bone,Lee,Breast,BRCA
+34P,Primary Tumor,Bo.34,Breast,Lee,Breast,BRCA
+3M_RCS,Metastatic,Br.3_RCS,Brain,Lee,Breast,BRCA
+3P_RCS,Primary Tumor,Br.3_RCS,Breast,Lee,Breast,BRCA
+43M,Metastatic,Bo.43,Bone,Lee,Breast,BRCA
+43P,Primary Tumor,Bo.43,Breast,Lee,Breast,BRCA
+44M,Metastatic,Bo.44,Bone,Lee,Breast,BRCA
+44P,Primary Tumor,Bo.44,Breast,Lee,Breast,BRCA
+47M_Pitt,Metastatic,Br.47_Pitt,Brain,Lee,Breast,BRCA
+47P_Pitt,Primary Tumor,Br.47_Pitt,Breast,Lee,Breast,BRCA
+48M,Metastatic,Bo.48,Bone,Lee,Breast,BRCA
+48P,Primary Tumor,Bo.48,Breast,Lee,Breast,BRCA
+4M_RCS,Metastatic,Br.4_RCS,Brain,Lee,Breast,BRCA
+4P_RCS,Primary Tumor,Br.4_RCS,Breast,Lee,Breast,BRCA
+51M_Pitt,Metastatic,Br.51_Pitt,Brain,Lee,Breast,BRCA
+51P_Pitt,Primary Tumor,Br.51_Pitt,Breast,Lee,Breast,BRCA
+52M_Pitt,Metastatic,Br.52_Pitt,Brain,Lee,Breast,BRCA
+52P_Pitt,Primary Tumor,Br.52_Pitt,Breast,Lee,Breast,BRCA
+55M,Metastatic,Bo.55,Bone,Lee,Breast,BRCA
+55P,Primary Tumor,Bo.55,Breast,Lee,Breast,BRCA
+5M_RCS,Metastatic,Br.5_RCS,Brain,Lee,Breast,BRCA
+5P_RCS,Primary Tumor,Br.5_RCS,Breast,Lee,Breast,BRCA
+60M,Metastatic,Bo.60,Bone,Lee,Breast,BRCA
+60P,Primary Tumor,Bo.60,Breast,Lee,Breast,BRCA
+62M_Pitt,Metastatic,Br.62_Pitt,Brain,Lee,Breast,BRCA
+62P_Pitt,Primary Tumor,Br.62_Pitt,Breast,Lee,Breast,BRCA
+64M_Pitt,Metastatic,Br.64_Pitt,Brain,Lee,Breast,BRCA
+64P_Pitt,Primary Tumor,Br.64_Pitt,Breast,Lee,Breast,BRCA
+68M_Pitt,Metastatic,Br.68_Pitt,Brain,Lee,Breast,BRCA
+68P_Pitt,Primary Tumor,Br.68_Pitt,Breast,Lee,Breast,BRCA
+6M_Pitt,Metastatic,Br.6_Pitt,Brain,Lee,Breast,BRCA
+6M_RCS,Metastatic,Br.6_RCS,Brain,Lee,Breast,BRCA
+6P_Pitt,Primary Tumor,Br.6_Pitt,Breast,Lee,Breast,BRCA
+6P_RCS,Primary Tumor,Br.6_RCS,Breast,Lee,Breast,BRCA
+71M_Pitt,Metastatic,Br.71_Pitt,Brain,Lee,Breast,BRCA
+71P_Pitt,Primary Tumor,Br.71_Pitt,Breast,Lee,Breast,BRCA
+72M_Pitt,Metastatic,Br.72_Pitt,Brain,Lee,Breast,BRCA
+72P_Pitt,Primary Tumor,Br.72_Pitt,Breast,Lee,Breast,BRCA
+7M_Pitt,Metastatic,Br.7_Pitt,Brain,Lee,Breast,BRCA
+7P_Pitt,Primary Tumor,Br.7_Pitt,Breast,Lee,Breast,BRCA
+A25M,Metastatic,Bo.A25,Bone,Lee,Breast,BRCA
+A25P,Primary Tumor,Bo.A25,Breast,Lee,Breast,BRCA
+GM1,Metastatic,GI.1,GI,Lee,Breast,BRCA
+GM2A,Metastatic,GI.2,GI,Lee,Breast,BRCA
+GM2B,Metastatic,GI.2,GI,Lee,Breast,BRCA
+GM4A,Metastatic,GI.4,GI,Lee,Breast,BRCA
+GM4B,Metastatic,GI.4,GI,Lee,Breast,BRCA
+GM7,Metastatic,GI.7,GI,Lee,Breast,BRCA
+GM8,Metastatic,GI.8,GI,Lee,Breast,BRCA
+GP1,Primary Tumor,GI.1,Breast,Lee,Breast,BRCA
+GP2,Primary Tumor,GI.2,Breast,Lee,Breast,BRCA
+GP4,Primary Tumor,GI.4,Breast,Lee,Breast,BRCA
+GP7,Primary Tumor,GI.7,Breast,Lee,Breast,BRCA
+GP8,Primary Tumor,GI.8,Breast,Lee,Breast,BRCA
+OM1,Metastatic,OV.1,Ovary,Lee,Breast,BRCA
+OM2,Metastatic,OV.2,Ovary,Lee,Breast,BRCA
+OM3,Metastatic,OV.3,Ovary,Lee,Breast,BRCA
+OM5A,Metastatic,OV.5,Ovary,Lee,Breast,BRCA
+OM5B,Metastatic,OV.5,Ovary,Lee,Breast,BRCA
+OM7,Metastatic,OV.7,Ovary,Lee,Breast,BRCA
+OM8,Metastatic,OV.8,Ovary,Lee,Breast,BRCA
+OP1,Primary Tumor,OV.1,Breast,Lee,Breast,BRCA
+OP2,Primary Tumor,OV.2,Breast,Lee,Breast,BRCA
+OP3,Primary Tumor,OV.3,Breast,Lee,Breast,BRCA
+OP5,Primary Tumor,OV.5,Breast,Lee,Breast,BRCA
+OP7,Primary Tumor,OV.7,Breast,Lee,Breast,BRCA
+OP8,Primary Tumor,OV.8,Breast,Lee,Breast,BRCA

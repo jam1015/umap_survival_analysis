@@ -1,0 +1,102 @@
+samples,sample_type.samples,patient_id,Site,Provider
+0003-56M,Metastatic,OV.9,Ovary,Lee
+0004-56M,Metastatic,OV.10,Ovary,Lee
+0006-56M,Metastatic,OV.11,Ovary,Lee
+0009-56M,Metastatic,OV.12,Ovary,Lee
+0014-56M,Metastatic,OV.13,Ovary,Lee
+0018-56M,Metastatic,OV.14,Ovary,Lee
+0029-50T,Primary Tumor,OV.9,,Lee
+0030-50T,Primary Tumor,OV.10,,Lee
+0031-50T,Primary Tumor,OV.11,,Lee
+0033-50T,Primary Tumor,OV.12,,Lee
+0034-50T,Primary Tumor,OV.13,,Lee
+0035-50T,Primary Tumor,OV.14,,Lee
+12M_Pitt,Metastatic,Br.12_Pitt,Brain,Lee
+12P_Pitt,Primary Tumor,Br.12_Pitt,,Lee
+17M,Metastatic,Bo.17,Bone,Lee
+17M_Pitt,Metastatic,Br.17_Pitt,Brain,Lee
+17P,Primary Tumor,Bo.17,,Lee
+17P_Pitt,Primary Tumor,Br.17_Pitt,,Lee
+19-2M_Pitt,Metastatic,Br.19-2_Pitt,Brain,Lee
+19-2P_Pitt,Primary Tumor,Br.19-2_Pitt,,Lee
+19M,Metastatic,Bo.19,Bone,Lee
+19P,Primary Tumor,Bo.19,,Lee
+1M_RCS,Metastatic,Br.1_RCS,Brain,Lee
+1P_RCS,Primary Tumor,Br.1_RCS,,Lee
+22M,Metastatic,Bo.22,Bone,Lee
+22P,Primary Tumor,Bo.22,,Lee
+25M_Pitt,Metastatic,Br.25_Pitt,Brain,Lee
+25P_Pitt,Primary Tumor,Br.25_Pitt,,Lee
+29M_Pitt,Metastatic,Br.29_Pitt,Brain,Lee
+29P_Pitt,Primary Tumor,Br.29_Pitt,,Lee
+2M_RCS,Metastatic,Br.2_RCS,Brain,Lee
+2P_RCS,Primary Tumor,Br.2_RCS,,Lee
+31M,Metastatic,Bo.31,Bone,Lee
+31P,Primary Tumor,Bo.31,,Lee
+34M,Metastatic,Bo.34,Bone,Lee
+34P,Primary Tumor,Bo.34,,Lee
+3M_RCS,Metastatic,Br.3_RCS,Brain,Lee
+3P_RCS,Primary Tumor,Br.3_RCS,,Lee
+43M,Metastatic,Bo.43,Bone,Lee
+43P,Primary Tumor,Bo.43,,Lee
+44M,Metastatic,Bo.44,Bone,Lee
+44P,Primary Tumor,Bo.44,,Lee
+47M_Pitt,Metastatic,Br.47_Pitt,Brain,Lee
+47P_Pitt,Primary Tumor,Br.47_Pitt,,Lee
+48M,Metastatic,Bo.48,Bone,Lee
+48P,Primary Tumor,Bo.48,,Lee
+4M_RCS,Metastatic,Br.4_RCS,Brain,Lee
+4P_RCS,Primary Tumor,Br.4_RCS,,Lee
+51M_Pitt,Metastatic,Br.51_Pitt,Brain,Lee
+51P_Pitt,Primary Tumor,Br.51_Pitt,,Lee
+52M_Pitt,Metastatic,Br.52_Pitt,Brain,Lee
+52P_Pitt,Primary Tumor,Br.52_Pitt,,Lee
+55M,Metastatic,Bo.55,Bone,Lee
+55P,Primary Tumor,Bo.55,,Lee
+5M_RCS,Metastatic,Br.5_RCS,Brain,Lee
+5P_RCS,Primary Tumor,Br.5_RCS,,Lee
+60M,Metastatic,Bo.60,Bone,Lee
+60P,Primary Tumor,Bo.60,,Lee
+62M_Pitt,Metastatic,Br.62_Pitt,Brain,Lee
+62P_Pitt,Primary Tumor,Br.62_Pitt,,Lee
+64M_Pitt,Metastatic,Br.64_Pitt,Brain,Lee
+64P_Pitt,Primary Tumor,Br.64_Pitt,,Lee
+68M_Pitt,Metastatic,Br.68_Pitt,Brain,Lee
+68P_Pitt,Primary Tumor,Br.68_Pitt,,Lee
+6M_Pitt,Metastatic,Br.6_Pitt,Brain,Lee
+6M_RCS,Metastatic,Br.6_RCS,Brain,Lee
+6P_Pitt,Primary Tumor,Br.6_Pitt,,Lee
+6P_RCS,Primary Tumor,Br.6_RCS,,Lee
+71M_Pitt,Metastatic,Br.71_Pitt,Brain,Lee
+71P_Pitt,Primary Tumor,Br.71_Pitt,,Lee
+72M_Pitt,Metastatic,Br.72_Pitt,Brain,Lee
+72P_Pitt,Primary Tumor,Br.72_Pitt,,Lee
+7M_Pitt,Metastatic,Br.7_Pitt,Brain,Lee
+7P_Pitt,Primary Tumor,Br.7_Pitt,,Lee
+A25M,Metastatic,Bo.A25,Bone,Lee
+A25P,Primary Tumor,Bo.A25,,Lee
+GM1,Metastatic,GI.1,GI,Lee
+GM2A,Metastatic,GI.2,GI,Lee
+GM2B,Metastatic,GI.2,GI,Lee
+GM4A,Metastatic,GI.4,GI,Lee
+GM4B,Metastatic,GI.4,GI,Lee
+GM7,Metastatic,GI.7,GI,Lee
+GM8,Metastatic,GI.8,GI,Lee
+GP1,Primary Tumor,GI.1,,Lee
+GP2,Primary Tumor,GI.2,,Lee
+GP4,Primary Tumor,GI.4,,Lee
+GP7,Primary Tumor,GI.7,,Lee
+GP8,Primary Tumor,GI.8,,Lee
+OM1,Metastatic,OV.1,Ovary,Lee
+OM2,Metastatic,OV.2,Ovary,Lee
+OM3,Metastatic,OV.3,Ovary,Lee
+OM5A,Metastatic,OV.5,Ovary,Lee
+OM5B,Metastatic,OV.5,Ovary,Lee
+OM7,Metastatic,OV.7,Ovary,Lee
+OM8,Metastatic,OV.8,Ovary,Lee
+OP1,Primary Tumor,OV.1,,Lee
+OP2,Primary Tumor,OV.2,,Lee
+OP3,Primary Tumor,OV.3,,Lee
+OP5,Primary Tumor,OV.5,,Lee
+OP7,Primary Tumor,OV.7,,Lee
+OP8,Primary Tumor,OV.8,,Lee
